@@ -1,0 +1,13 @@
+version: "3"
+services:
+  ampq_test_publish_confirms_qa:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    networks:
+      - default
+
+
+networks:
+  default:
+
