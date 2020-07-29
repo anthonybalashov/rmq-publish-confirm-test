@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: kotlin-stdlib-jdk8-1.3.72.jar amqp-client-5.7.3.jar slf4j-lo
- g4j12-1.7.25.jar kotlin-stdlib-jdk7-1.3.72.jar kotlin-stdlib-1.3.72.jar
-  slf4j-api-1.7.26.jar log4j-1.2.17.jar kotlin-stdlib-common-1.3.72.jar 
- annotations-13.0.jar
-Main-Class: MainKt
-
